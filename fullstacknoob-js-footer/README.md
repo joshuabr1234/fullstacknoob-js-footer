@@ -4,7 +4,7 @@
 
 Install with the command:
 ```
-nom install --save fullstacknoob-js-footer
+npm install --save fullstacknoob-js-footer
 ```
 javascript
 
